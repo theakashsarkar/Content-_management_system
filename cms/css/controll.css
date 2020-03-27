@@ -1,0 +1,9 @@
+input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea,
+select{
+    min-width: 600px;
+    padding:5px;
+    border-radius: 3px;
+}

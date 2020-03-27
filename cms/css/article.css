@@ -1,0 +1,59 @@
+.article
+{
+    display: block;
+    margin: 5px;
+    padding:10px;
+    background: white;
+    margin:3px;
+    margin-bottom:10px;
+    background-color: skyblue;
+    border-radius: 5px, 20px, 5px, 20px;
+}
+.article h1,h2,h3
+{
+   display: block;
+   padding:5px;
+   background-color: black;
+   color:white;
+   font-weight: bold;
+   line-height: 15px;
+   margin-bottom: 1px;
+}
+.article h1
+{
+    font-size: 20px;
+}
+.article h2
+{
+    font-size: 16px;
+}
+.article h3
+{
+    font-size: 14px;
+}
+.article div
+{
+    padding: 10px;
+    font-size: 12px;
+    font-style: italic;
+}
+.article div img
+{
+    height: 80px;
+    margin: 5px;
+    float: left;
+}
+.article div p
+{
+    float: left;
+}
+.images
+{
+    height : 150px;
+    overflow: hidden;
+}
+.images img 
+{
+    height: inherit;
+    margin-right: 20px;
+}
